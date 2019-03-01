@@ -1,4 +1,4 @@
-package org.jsonschem2pojoannotation;
+package com.github.iriscube;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
